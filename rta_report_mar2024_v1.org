@@ -13,7 +13,7 @@
 \author{L. Larrabee Strow, Sergio DeSouza-Machado, and Chris Hepplewhite}
 \date{\today}
 \title{\Large Year-1/Progress Report\\ \vspace{0.05in} \normalsize Award <>
-  \\The Stand Alone Rapid Transmittance Algorithm for CrIS and CHIRP}
+  \\The Stand Alone Rapid Transmittance Algorithm - 2023-24.}
 \maketitle
 #+END_EXPORT
 
@@ -244,7 +244,7 @@ https://doi.org/10.5194/amt-13-323-2020
 * COMMENT
 ** kCARTA Spectroscopic databases and linemixing packages
 
-We use our in-house line-by-line code to produce compressed optical
+We use our in-house line-by-line code to produce compressed opticaly
 depths for kCARTA, as we are able to incorporate HITRAN updates faster
 than AER-LBLRTM. The current exceptions to this are \cd and \methane,
 where use more recent line-mixing models that are available in LBLRTM
